@@ -2,12 +2,12 @@ only-local-repository
 =====================
 # This is a project about beaded octocats
 
-Some intro text, some intro text
+Specifically, yada, yada, yada.
 
 ## Introduction
+Some intro text, some intro text
 
 ## Something important
-Specifically, yada, yada, yada.
 
 ## Conclusion
 
