@@ -5,6 +5,7 @@ only-local-repository
 Specifically, yada, yada, yada.
 
 ## Introduction
+Some intro text, some intro text
 
 ## Something important
 
